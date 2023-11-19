@@ -14,7 +14,7 @@ UTS PEMROGRAMAN MOBILE1
 ###Color.xml
 ![image](https://github.com/yudhapurnama/UTS-PEMROGRAMAN-MOBILE/assets/115516505/495cce26-e41b-47d0-a6e1-67deee90569f)
 ###string.xml
-![strings xml](https://github.com/yudhapurnama/UTS-PEMROGRAMAN-MOBILE/assets/115516505/95579bf3-bde4-452f-ab14-ba56ee916c77)
+![image](https://github.com/yudhapurnama/UTS-PEMROGRAMAN-MOBILE/assets/115516505/95579bf3-bde4-452f-ab14-ba56ee916c77)
 ## Output
-![Cuplikan layar 2023-11-10 114012]![image](https://github.com/yudhapurnama/UTS-PEMROGRAMAN-MOBILE/assets/115516505/8726c9ef-116a-4f96-bec2-7b472ccf3289)
+![image](https://github.com/yudhapurnama/UTS-PEMROGRAMAN-MOBILE/assets/115516505/8726c9ef-116a-4f96-bec2-7b472ccf3289)
 
